@@ -1,0 +1,27 @@
+.time-display {
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+
+.time-display.time {
+    font-weight: lighter;
+    font-size: 45px;
+}
+
+.time-display.status {
+    font-weight: normal;
+    font-size: 12px;
+}
+
+.time-display.prompt {
+    font-weight: normal;
+    font-size: 10px;
+}
+
+.working {
+    color: green;
+}
+
+.breaking {
+    color: red;
+}
